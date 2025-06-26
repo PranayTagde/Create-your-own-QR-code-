@@ -30,3 +30,38 @@ source venv/bin/activate       # On Windows: venv\Scripts\activate
 
 # 3. Install dependencies
 pip install -r requirements.txt
+```
+
+## 🚀 Usage
+
+1. **Start Jupyter Notebook**:
+
+    ```bash
+    jupyter notebook
+    ```
+
+2. **Open the file named**:
+
+    ```
+    Create your own QR code!.ipynb
+    ```
+
+3. **Run the notebook cells one by one**, follow the prompts, and generate your own QR code!
+
+
+## 📁 Project Structure
+
+qr-code-generator/
+├── Create your own QR code!.ipynb   # Main notebook
+├── requirements.txt                 # Python package dependencies
+└── README.md                        # Project documentation
+
+
+
+## 🖼️ Output
+
+You will get an QR-Image in the project folder.
+
+
+
+
