@@ -51,9 +51,9 @@ pip install -r requirements.txt
 
 ## 📁 Project Structure
 
-qr-code-generator/ /n
-├── Create your own QR code!.ipynb   # Main notebook /n
-├── requirements.txt                 # Python package dependencies /n
+qr-code-generator/ 
+├── Create your own QR code!.ipynb   # Main notebook 
+├── requirements.txt                 # Python package dependencies 
 └── README.md                        # Project documentation
 
 
